@@ -1,0 +1,17 @@
+.login{
+    margin: 1rem;
+}
+.close{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: rgba(60, 60, 67, 0.6);
+}
+.title{
+    font-size: 4.5rem;
+    font-weight: 800;
+
+}
+.title3{
+    font-size: 2rem;
+    font-weight: 600;
+}
